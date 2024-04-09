@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ANGULAR\\FBTarjeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|c:\\angular\\fbtarjeta\\fbtarjeta\\controllers\\tarjetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|solutionrelative:fbtarjeta\\controllers\\tarjetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|c:\\angular\\fbtarjeta\\fbtarjeta\\fbtarjeta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|solutionrelative:fbtarjeta\\fbtarjeta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|c:\\angular\\fbtarjeta\\fbtarjeta\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|solutionrelative:fbtarjeta\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|c:\\angular\\fbtarjeta\\fbtarjeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C647FB73-BD77-429C-A6BD-2D901D6F0B0A}|FBTarjeta\\FBTarjeta.csproj|solutionrelative:fbtarjeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FBTarjeta",
+              "DocumentMoniker": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\FBTarjeta.csproj",
+              "RelativeDocumentMoniker": "FBTarjeta\\FBTarjeta.csproj",
+              "ToolTip": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\FBTarjeta.csproj",
+              "RelativeToolTip": "FBTarjeta\\FBTarjeta.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T23:11:21.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\Context\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FBTarjeta\\Context\\AplicationDbContext.cs",
+              "ToolTip": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\Context\\AplicationDbContext.cs",
+              "RelativeToolTip": "FBTarjeta\\Context\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:21:15.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\Program.cs",
+              "RelativeDocumentMoniker": "FBTarjeta\\Program.cs",
+              "ToolTip": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\Program.cs",
+              "RelativeToolTip": "FBTarjeta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:15:39.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarjetaController.cs",
+              "DocumentMoniker": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\Controllers\\TarjetaController.cs",
+              "RelativeDocumentMoniker": "FBTarjeta\\Controllers\\TarjetaController.cs",
+              "ToolTip": "C:\\ANGULAR\\FBTarjeta\\FBTarjeta\\Controllers\\TarjetaController.cs",
+              "RelativeToolTip": "FBTarjeta\\Controllers\\TarjetaController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvycAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:38:56.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
